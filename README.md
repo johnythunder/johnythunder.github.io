@@ -1,0 +1,2 @@
+# johnythunder.github.io
+default
